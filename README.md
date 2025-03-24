@@ -4,7 +4,7 @@
 - I'm based in Virginia Beach, VA 🏖️
 - I'm passionate about building mobile apps and scaling them to large audiences 🤹
 - Huge sports fan and enjoy watching a variety of them (🏈, 🏀, ⚽, 🏒, etc)
-- I spend my free time hanging out with my kids and wife just enjoying life!
+- I spend my free time hanging out with my kids and wife just enjoying life! 👪
 
 ### Technologies I use
 <a target="_blank" href="https://www.swift.org"><img height="32" width="32" src="https://cdn.simpleicons.org/swift"></img></a>
