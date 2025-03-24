@@ -3,8 +3,8 @@
 ### More about me
 - I'm based in Virginia Beach, VA 🏖️
 - I'm passionate about building mobile apps and scaling them to large audiences 🤹
-- I spend my free time hanging out with my kids and wife just enjoying life! 👪
-- Enjoy snowboarding 🏂 and golfing ⛳ as my main hobbies!
+- I spend my free time hanging out with my kids and wife just enjoying life 👪
+- Enjoy snowboarding 🏂 and golfing ⛳ as my main hobbies
 - Huge sports fan and enjoy watching a variety of them (🏈, 🏀, ⚽, 🏒, etc)
 
 ### Technologies I use
